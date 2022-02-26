@@ -1,0 +1,13 @@
+.Card{
+    border: rgba(204, 188, 188, 0.418) solid 1px; /*Bordure */
+    border-radius: 15px; /*ta9wisa*/
+    width: 310px; /*3ordh*/
+    height: 331px; /*toul*/
+    margin: 2rem; /*espace*/
+
+
+   
+}
+.Card img{
+    border-radius: 15px;
+}

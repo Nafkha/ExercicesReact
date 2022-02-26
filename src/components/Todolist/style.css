@@ -1,0 +1,8 @@
+.todo{
+    color:black;
+
+}
+.done{
+    color:red;
+    text-decoration:line-through;
+}

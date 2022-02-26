@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@300&family=Varela+Round&display=swap');
+
+
+.nav{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    list-style: none;
+   
+}
+.nav li a{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #000;
+    margin: 2rem;
+    font-size: 1.5rem;
+}
+.nav li a:hover{
+    color:#0077B6;
+}
